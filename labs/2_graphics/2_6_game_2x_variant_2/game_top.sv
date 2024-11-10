@@ -89,9 +89,9 @@ module game_top
         .DX_WIDTH      ( 2 ),
         .DY_WIDTH      ( 1 ),
 
-        .ROW_0 ( 32'h000bb000 ),
-        .ROW_1 ( 32'h00099000 ),
-        .ROW_2 ( 32'h00099000 ),
+        .ROW_0 ( 32'hfffbb000 ),
+        .ROW_1 ( 32'hfff99000 ),
+        .ROW_2 ( 32'hfff99000 ),
         .ROW_3 ( 32'hb99ff99b ),
         .ROW_4 ( 32'hb99ff99b ),
         .ROW_5 ( 32'h00099000 ),
